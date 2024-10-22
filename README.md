@@ -13,7 +13,6 @@ BetCandidate é uma plataforma experimental de apostas políticas focada nas ele
 
 ## 🎓 Objetivo do Projeto
 
-Este projeto foi criado com o propósito de:
 - Aprender desenvolvimento blockchain e Web3
 - Explorar a criação de contratos inteligentes
 - Praticar integração com carteiras web3 (MetaMask)
